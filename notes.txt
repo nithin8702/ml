@@ -7,3 +7,12 @@ https://github.com/bjherger/ResumeParser
 https://github.com/Satrat/Resume-Parser
 https://www.researchgate.net/project/Resume-Parser-With-Natural-Language-Processing
 https://www.researchgate.net/publication/313851778_Resume_Parser_with_Natural_Language_Processing
+
+concordance()
+similar()
+common_contexts()
+dispersion_plot()
+sent_tokensize, word_tokenize
+stopwords.words
+bigrams(), ngrams
+collocations
